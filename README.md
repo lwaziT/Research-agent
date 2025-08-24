@@ -1,4 +1,4 @@
 # Research-Agent
 
-Building a RAG systems for chatting with documents.
+Building a RAG system for chatting with documents.
 
